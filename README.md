@@ -1,1 +1,1 @@
-# spectrum-web-3
+# spectrum-web
